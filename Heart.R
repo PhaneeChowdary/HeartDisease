@@ -37,7 +37,7 @@ summary(df)
 #       Value 3: non-anginal pain
 #       Value 4: asymptomatic
 #trtbps: resting blood pressure (in mm Hg)
-#chol : cholestoral in mg/dl fetched via BMI sensor
+#chol : cholestrol in mg/dl fetched via BMI sensor
 #fbs :  (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
 #rest_ecg : resting electrocardiographic results
 #Value 0: normal
